@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPwaTodo", "BlazorPwaTodo\BlazorPwaTodo.csproj", "{1234EB83-2A88-4C4C-A401-66AD0CD44768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPwaTodo.Shared", "BlazorPwaTodo.Shared\BlazorPwaTodo.Shared.csproj", "{002999B4-F812-4E3D-9B25-636B64DEB562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1234EB83-2A88-4C4C-A401-66AD0CD44768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1234EB83-2A88-4C4C-A401-66AD0CD44768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1234EB83-2A88-4C4C-A401-66AD0CD44768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1234EB83-2A88-4C4C-A401-66AD0CD44768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002999B4-F812-4E3D-9B25-636B64DEB562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002999B4-F812-4E3D-9B25-636B64DEB562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002999B4-F812-4E3D-9B25-636B64DEB562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002999B4-F812-4E3D-9B25-636B64DEB562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {735292FA-BA4E-4AAC-B182-2DA5300642B1}
+	EndGlobalSection
+EndGlobal
